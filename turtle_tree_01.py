@@ -3,7 +3,7 @@ import turtle
 
 # Screen Size
 screen = turtle.Screen()
-screen.setup(800, 600)
+screen.setup(1200, 900)
 
 # Circle for the part of the tree
 circle = turtle.Turtle()
@@ -63,5 +63,4 @@ for i in range(17, 20):
         square.goto(-x, -y + 280)
         square.stamp()
 
-turtle.
 turtle.exitonclick()
