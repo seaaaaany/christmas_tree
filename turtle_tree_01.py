@@ -9,14 +9,14 @@ screen.setup(1200, 900)
 circle = turtle.Turtle()
 circle.shape('circle')
 circle.color('red')
-circle.speed('fast')
+circle.speed('fastest')
 circle.up()
 
 # square for the part of the tree
 square = turtle.Turtle()
 square.shape('square')
 square.color('green')
-square.speed('fast')
+square.speed('fastest')
 square.up()
 
 circle.goto(0, 280)
