@@ -9,14 +9,14 @@ screen.setup(800, 600)
 circle = turtle.Turtle()
 circle.shape('circle')
 circle.color('red')
-circle.speed('fastest')
+circle.speed('fast')
 circle.up()
 
 # square for the part of the tree
 square = turtle.Turtle()
 square.shape('square')
 square.color('green')
-square.speed('fastest')
+square.speed('fast')
 square.up()
 
 circle.goto(0, 280)
@@ -32,8 +32,8 @@ for i in range(1, 17):
         x = 30 * j
         square.goto(x, -y + 280)  # coordination
         square.stamp()
-        circle.goto(-x, -y + 280)
-        circle.stamp()
+        square.goto(-x, -y + 280)
+        square.stamp()
 
     # Red Lights
     if i % 4 == 0:
@@ -63,4 +63,5 @@ for i in range(17, 20):
         square.goto(-x, -y + 280)
         square.stamp()
 
+turtle.
 turtle.exitonclick()
