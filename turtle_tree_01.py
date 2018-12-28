@@ -15,7 +15,7 @@ circle.up()
 # square for the part of the tree
 square = turtle.Turtle()
 square.shape('square')
-square.shape('green')
+square.color('green')
 square.speed('fastest')
 square.up()
 
