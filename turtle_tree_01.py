@@ -40,6 +40,7 @@ for i in range(1, 17):
         x = 30 * (j + 1)
         circle.color('red')
         circle.goto(-x, -y + 280)  # coordination
+        circle.stamp()
         circle.goto(x, -y + 280)
         circle.stamp()
 
