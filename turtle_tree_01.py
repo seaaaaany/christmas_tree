@@ -32,6 +32,8 @@ for i in range(1, 17):
         x = 30 * j
         square.goto(x, -y + 280)  # coordination
         square.stamp()
+        circle.goto(x, -y + 280)
+        circle.stamp()
 
     # Red Lights
     if i % 4 == 0:
