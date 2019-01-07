@@ -1,11 +1,12 @@
 # Christmas Tree
-#### Merry Christmas!
+
+## Happy Holidays!
 
 > This project will show you how to draw a christmas tree in Python.
 
 
 
-#### Requirement
+### Requirement
 
 ```python
 pip install turtle
@@ -13,7 +14,7 @@ pip install turtle
 
 
 
-#### Small Tree
+### Small Tree
 
 Never underestimate the power of scout's code.
 
@@ -34,7 +35,7 @@ Than you will get...
 
 
 
-#### OK, let's get serious this time
+### OK, let's get serious this time
 
 Turtle is a great python library to draw pictures.
 
@@ -42,7 +43,7 @@ Turtle is a great python library to draw pictures.
 
 
 
-#### More deep?
+### More deep?
 
 > WARNING: IT WILL TIME MORE THAN ONE MINUTES TO GET YOUR TREE DONE.
 
@@ -60,5 +61,7 @@ Just in case if you lose patient, you can find the finished one below.
 
 
 
-#### Have Fun!
+### Have Fun!
+
+*Sorry for update late!*
 
