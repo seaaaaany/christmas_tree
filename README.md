@@ -29,7 +29,7 @@ for i in range(height):
 print((' ' * height) + '|')
 ```
 
-Than you will get...
+Then you will get...
 
 ![small_tree](https://github.com/yycyjqc/christmas_tree/blob/master/small_tree_img.png?raw=true)
 
